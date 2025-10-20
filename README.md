@@ -1,6 +1,12 @@
-# Melting Point Prediction
+# Melting Point Prediction (Kaggle)
 
 A machine learning project for predicting melting points (Tm) of chemical compounds using molecular descriptors and fingerprints with XGBoost regression.
+
+## Competition Link
+https://www.kaggle.com/competitions/melting-point/overview
+
+## Score In Kaggle Competition
+- **Score**: 27.34649 (Ranked 173th)
 
 ## 📋 Project Overview
 
